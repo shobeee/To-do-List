@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [To-do-list] <a name="about-project"></a>
 
-> To-do-list
+> To-Do-List
 
-**[your_project__name]** is a...
+**[To-do-list]** is a task management app that adds and removes tasks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -88,9 +88,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[You can add a task]**
+- **[You can remove a task]**
+- **[task will be stored]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://shobeee.github.io/Capstone-Project/)
+- No love demo link available now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,77 +114,36 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-you need git and git hub
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Git & Github
+Node.js
+Visual Studio Code
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
 ```
---->
-
+git clone git@github.com:shobeee/To-do-List.git
+cd To-do-List
+```
 ### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
 ```
---->
+npm install
+```
+
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
 ```
---->
-
+npm run build
+npm start
+```
 ### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
 ```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
+npm test
 ```
- -->
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,9 +168,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[task can be added]**
+- [ ] **[task can be rmoved]**
+- [ ] **[tasks will be stored]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,7 +180,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/shobeee/To-do-List/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,6 +227,5 @@ I would like to thank...
 
 This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

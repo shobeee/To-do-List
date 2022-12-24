@@ -33,14 +33,7 @@ const updateItem = (value, id) => {
 export const getDescriptionInput = (input, arr, id) => {
   const inputDescription = input;
   input.addEventListener('keyup', () => {
-    // const valLen = inputDescription.value.length;
-    // if (valLen > 0) {
     updateItem(inputDescription.value, id);
-    // } else {
-    //   setTimeout(() => {
-    //     inputDescription.value = arr[id - 1].description;
-    //   }, 2000);
-    // }
   });
 };
 
