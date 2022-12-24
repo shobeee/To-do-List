@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Refactor ES6 Awesome Books
+> To-do-list
 
 **[your_project__name]** is a...
 
